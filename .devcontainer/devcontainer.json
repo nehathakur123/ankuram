@@ -1,0 +1,6 @@
+{
+
+    "name":"ANKURAM",
+    "image": "python:latest",
+    "postCreateCommand": "pip3 install -r requirements.txt"
+}
